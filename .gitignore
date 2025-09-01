@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Python egg metadata and build artifacts
+*.egg-info/
+dist/
+build/
+
+# Logs and outputs
+*.log
+*.out
+
+# PyTorch/TensorFlow checkpoints and model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Colab temporary files
+*.ipynb.json
+
+# Environment files (optional – uncomment if used)
+# requirements.txt
+# .env
