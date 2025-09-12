@@ -37,3 +37,6 @@ build/
 # Environment files (optional – uncomment if used)
 # requirements.txt
 # .env
+01_Simple_Neural_Network_DL/customer_data.csv
+03_Artificial_Neural_Netowrk_DL/01_Exercise_ANN_Churn_Prediction/Churn_Prediction.csv
+03_Artificial_Neural_Netowrk_DL/bank_customer_churn_prediction.csv
